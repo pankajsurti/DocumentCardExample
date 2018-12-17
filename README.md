@@ -2,6 +2,9 @@
 
 This is where you include your WebPart documentation.
 
+[Use Office UI Fabric React components in your SharePoint client-side web part](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/use-fabric-react-components)
+
+
 ### Building the code
 
 ```bash
